@@ -32,12 +32,22 @@
 <p></p>
 </body>
 
-head>
+<head>
 
-<title>  </title>
+<title> Sound Works </title>
 </head>
 <body>
-<h3>Resume</h3>
+<h3></h3>
+<p></p>
+</body>
+</html>
+
+<head>
+
+<title> Resume </title>
+</head>
+<body>
+<h3></h3>
 <p></p>
 </body>
 </html>
