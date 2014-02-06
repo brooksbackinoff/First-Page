@@ -5,7 +5,7 @@
 <!-- this is my head block for the browser -->
 <head>
 <!-- title tag shows up on browser tab -->
-<title> </title>
+<title>Brooks Backinoff's Portfolio</title>
 </head>
 <!-- the body is where everything goes that users should see-->
 <body>
@@ -14,40 +14,28 @@
 </body>
 
 
-<head>
 
-<title> Movies </title>
-</head>
 <body>
 <h2></h2>
 <p></p>
 </body>
 
-<head>
 
-<title> Pictures </title>
-</head>
 <body>
-<h3></h3>
+<h3>Pictures</h3>
 <p></p>
 </body>
 
-<head>
 
-<title> Sound Works </title>
-</head>
 <body>
-<h3></h3>
+<h4>Sound Works</h4>
 <p></p>
 </body>
 </html>
 
-<head>
 
-<title> Resume </title>
-</head>
 <body>
-<h3></h3>
+<h5>Resume</h5>
 <p></p>
 </body>
 </html>
