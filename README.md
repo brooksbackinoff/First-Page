@@ -5,11 +5,11 @@
 <!-- this is my head block for the browser -->
 <head>
 <!-- title tag shows up on browser tab -->
-<title> Brooks Backinoff's Portfolio</title>
+<title> </title>
 </head>
 <!-- the body is where everything goes that users should see-->
 <body>
-<h1>Resume</h1>
+<h1>Brooks Backinoff's Portfolio</h1>
 <p></p>
 </body>
 
@@ -32,4 +32,12 @@
 <p></p>
 </body>
 
+head>
+
+<title>  </title>
+</head>
+<body>
+<h3>Resume</h3>
+<p></p>
+</body>
 </html>
