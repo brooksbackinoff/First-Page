@@ -19,7 +19,7 @@
 <title> Movies </title>
 </head>
 <body>
-<h2>/h2>
+<h2></h2>
 <p></p>
 </body>
 
@@ -28,7 +28,7 @@
 <title> Pictures </title>
 </head>
 <body>
-<h3>/h3>
+<h3></h3>
 <p></p>
 </body>
 
