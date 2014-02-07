@@ -1,4 +1,4 @@
-
 /* this is my style sheet */
-h1 {color:#0000ff;
+* {
+  font family: Arial, Helvetica, sans-serif; 
 }
