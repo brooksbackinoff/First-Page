@@ -2,4 +2,5 @@
 * {
   font-family: Arial, Helvetica, sans-serif; 
 }
-.italics{font-style: italics;}
+*.italics{font-style: italics;}
+*.bold {font-weight: bold;}
